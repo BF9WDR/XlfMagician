@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "XlfMagician": {
+      "commandName": "Project",
+      "commandLineArgs": "--loose --source source.xlf --target target.xlf",
+      "workingDirectory": "C:\\Users\\orvenyesib\\source\\repos\\XlfMagician"
+    }
+  }
+}
